@@ -83,3 +83,9 @@ hr{
     width: 30%;
     margin: 50px 0px;
 }
+
+.link {
+    color: #f5f5f5;
+    text-decoration: none;
+    font-family: 'Gill Sans', sans-serif;
+}
