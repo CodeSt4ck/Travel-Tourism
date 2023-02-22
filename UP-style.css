@@ -1,0 +1,156 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: absolute;
+}
+
+.subhead {
+  display: contents;
+  display: flex;
+  margin-right: 50px;
+}
+
+.subhead h2 {
+  margin-left: 50px;
+}
+
+.link {
+  color: #f5f5f5;
+  text-decoration: none;
+  font-family: "Gill Sans", sans-serif;
+}
+
+.navContent {
+  display: flex;
+  flex-direction: row;
+}
+
+video {
+  position: relative;
+  width: 1240px;
+  height: 710px;
+  bottom: 6px;
+}
+
+.image {
+  width: 30%;
+  height: 85%;
+}
+.image > img {
+  width: 100%;
+  height: 100%;
+}
+hr {
+  position: relative;
+  left: 33%;
+  width: 30%;
+  margin: 50px 0px;
+}
+
+.description {
+  width: 100%;
+  height: 55%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.description > div {
+  width: 100%;
+  height: 26%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.description > div > p {
+  width: 40%;
+  height: 30%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(50, 50, 50);
+}
+
+.topHeading {
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 48px;
+  color: aquamarine;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.about {
+  width: 50%;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+h3 {
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 24px;
+  color: rgb(29, 148, 108);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h4 {
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 18px;
+  color: rgb(13, 92, 65);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#culture {
+  margin-left: 30px;
+  width: 90%;
+}
+
+#flora {
+  margin-left: 30px;
+  margin-top: 20px;
+  width: 90%;
+}
+
+footer {
+  width: 100%;
+  height: 7%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.background {
+  position: absolute;
+  opacity: 0.5;
+  width: -webkit-fill-available;
+}
+
+.linklist {
+  width: 20%;
+  height: 20%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.linklist > img {
+  width: 20%;
+  height: 80%;
+}
+
+.address {
+  width: 100%;
+  height: 50%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.subaddress {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
