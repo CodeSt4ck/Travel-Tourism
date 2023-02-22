@@ -40,7 +40,7 @@
   grid-template-columns: 2fr 1fr;
   justify-items: space-between;
   align-items: start;
-  height: 39.8rem;
+  height: 49rem;
 }
 
 .nav {
@@ -192,24 +192,6 @@
   height: auto;
 }
 
-.el-2 .item-7 img {
-  margin-left: 25%;
-  width: 60%;
-  height: auto;
-}
-
-/* .el-2 .item-8 {
-} */
-
-/* .el-2 .item-9 {
-} */
-
-.el-2 .item-10 img {
-  margin-left: 25%;
-  width: 60%;
-  height: auto;
-}
-
 .el-3 {
   /* background-color: red; */
   display: grid;
@@ -241,12 +223,6 @@
 }
 
 .el-3 .item-5 {
-}
-
-.el-3.item-6 {
-}
-
-.el-3 .item-7 {
 } */
 
 .el-4 {
@@ -264,13 +240,13 @@
   border-radius: 10px;
 }
 
-.el-4 .item-1 img {
+/* .el-4 .item-1 {
+} */
+
+.el-4 .item-2 img {
   width: 100%;
   height: auto;
 }
-
-/* .el-4 .item-2 {
-} */
 
 .el-5 {
   /* background-color: red; */
@@ -287,11 +263,25 @@
   border-radius: 10px;
 }
 
-.el-5 .item-2 img {
-  /* margin-left: 10%; */
+.el-5 .item-1 img {
   width: 100%;
   height: auto;
 }
+
+/* .el-5 .item-2 {
+}
+
+.el-5 .item-3 {
+}
+
+.el-5 .item-4 {
+}
+
+.el-5 .item-5 {
+}
+
+.el-5 .item-6 {
+} */
 
 .el-5 .item-7 {
   grid-column: 1/-1;
@@ -312,7 +302,10 @@
   border-radius: 10px;
 }
 
-.el-6 .item-1 img {
+/* .el-6 .item-1 {
+} */
+
+.el-6 .item-2 img {
   width: 100%;
   height: auto;
 }
@@ -487,7 +480,7 @@
   padding-left: 10px;
   font-family: "Ranchers", cursive;
   font-size: 80px;
-  background: url(Images/Himachal-Pradesh/Text-Backgrounds/H1.gif);
+  background: url(Images/Jammu-Kashmir/Text-Backgrounds/H1.gif);
   -webkit-background-clip: text;
   -webkit-text-fill-color: #ffffff28;
   animation: animate 30s linear infinite;
@@ -496,7 +489,7 @@
 .animated-text h2 {
   font-family: "Ranchers", cursive;
   font-size: 100px;
-  background: url(Images/Himachal-Pradesh/Text-Backgrounds/H2.jpg);
+  background: url(Images/Jammu-Kashmir/Text-Backgrounds/H2.jpg);
   -webkit-background-clip: text;
   -webkit-text-fill-color: #5b728a54;
   animation: animate 30s linear infinite;
